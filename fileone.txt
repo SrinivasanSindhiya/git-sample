@@ -1,1 +1,2 @@
 This is first commit of the file
+Changes for next commit
