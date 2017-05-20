@@ -3,4 +3,6 @@ Changes for next commit
 New change included
 in remote repo
 adding changes for git-sample repo
+mod4 changes 
+merge conflict
 
