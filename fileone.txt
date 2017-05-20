@@ -1,5 +1,6 @@
-This is first commit of the file
+hi This is first commit of the file
 Changes for next commit
+New change included
 in remote repo
 adding changes for git-sample repo
 
