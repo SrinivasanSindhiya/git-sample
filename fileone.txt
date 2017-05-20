@@ -4,10 +4,10 @@ New change included
 in remote repo
 <<<<<<< HEAD
 adding changes for git-sample repo
-mod4 changes 
+stasmod4 changes 
 merge conflict
 resolving merge conflict in fileone
-
+make one more change
 =======
 
 latest change
