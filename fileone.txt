@@ -1,8 +1,14 @@
-hi This is first commit of the file
+h This is first commit of the file
 Changes for next commit
 New change included
 in remote repo
+<<<<<<< HEAD
 adding changes for git-sample repo
 mod4 changes 
 merge conflict
+resolving merge conflict in fileone
 
+=======
+
+latest change
+>>>>>>> ed24b59670c1c4144056e4e9486c986e6a5ad3a1
