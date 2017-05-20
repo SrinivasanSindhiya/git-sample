@@ -1,4 +1,6 @@
-hi This is first commit of the file
+h This is first commit of the file
 Changes for next commit
 New change included
 in remote repo
+
+latest change
