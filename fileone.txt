@@ -1,3 +1,5 @@
 This is first commit of the file
 Changes for next commit
 in remote repo
+adding changes for git-sample repo
+
